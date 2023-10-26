@@ -452,6 +452,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Music
 
+* [**Audile**](https://github.com/aleksey-saenko/MusicRecognizer) <sup>**[[F-Droid](https://f-droid.org/app/com.mrsep.musicrecognizer)]**</sup>
 * [**Audio Spectrum Analyzer**](https://github.com/woheller69/audio-analyzer-for-android) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.audio_analyzer_for_android)]**</sup>
 * [**ChordReader 2**](https://github.com/AndInTheClouds/chordreader2) <sup>**[[F-Droid](https://www.f-droid.org/app/org.hollowbamboo.chordreader2)]**</sup>
 * [**GuitarFretboardTrainer**](https://gitlab.com/pandagoespoop/guitarfretboardtrainer) <sup>**[[F-Droid](https://f-droid.org/app/com.simonslater.guitarfretboardtrainer)]**</sup>
